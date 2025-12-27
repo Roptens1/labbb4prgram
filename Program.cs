@@ -21,6 +21,14 @@ namespace labbb4prgram
 
             // Skriv ut
             Console.WriteLine(person.ToText());
+            Console.WriteLine("text");
+            Console.WriteLine("text");
+            Console.WriteLine("text");
+            Console.WriteLine("text");
+            Console.WriteLine("text");
+
+
+
         }
     }
 }
