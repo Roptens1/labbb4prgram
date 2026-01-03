@@ -13,7 +13,8 @@ namespace labbb4prgram
         Kvinna,
         Man,
         IckeBinar,
-        Annan
+        Annan,
+        du
     }
 
     // Struct för hår
