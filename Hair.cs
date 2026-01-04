@@ -8,7 +8,7 @@ namespace labbb4prgram
 {
     struct Hair
     {
-        public string Langd;
-        public string Farg;
+        public string Langd { get; set; }
+        public string Farg { get; set; }
     }
 }

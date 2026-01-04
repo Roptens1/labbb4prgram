@@ -11,6 +11,6 @@ namespace labbb4prgram
         Kvinna,
         Man,
         IckeBinar,
-        bakir
+        Annan
     }
 }
